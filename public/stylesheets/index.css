@@ -1,0 +1,28 @@
+html {
+    padding-top: 15%; 
+    margin-right: 40%; 
+    margin-left: 40%;  
+}
+
+#loginButtonGroup {
+    padding-top: 20%; 
+}
+
+#forgotPasswordText {
+    color: #808080;
+} 
+
+#loginButton {
+    background-color: #E23142; 
+    color: white;
+}  
+
+#findButton {
+    background-color: #5055E4; 
+    color: white; 
+}  
+
+#createButton {
+    background-color: #40C22B;
+    color: white;  
+} 
