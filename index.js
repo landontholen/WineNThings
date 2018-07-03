@@ -17,4 +17,8 @@ app.get("/", function(req, res){
     res.render("index"); 
 }); 
 
+app.get("/events", function(req, res){
+    res.render("show"); 
+}); 
+
 app.listen(3000, ()=> console.log("The Wine'N'Things server has been started.")); 
